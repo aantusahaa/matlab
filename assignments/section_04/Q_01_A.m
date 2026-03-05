@@ -16,6 +16,7 @@ disp(A-B);
 
 fprintf('Multiplication of two matrices A and B\n');
 disp(A*B);
+disp(B*A);
 
 fprintf('Determinant of two matrices A and B\n')
 disp(det(A))
