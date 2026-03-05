@@ -1,3 +1,5 @@
+clc; clear;
+
 % System 1 (2 variables: x, y)
 
 A1 = [3, 2; 

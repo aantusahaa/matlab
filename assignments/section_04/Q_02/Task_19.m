@@ -1,3 +1,5 @@
+clc; clear;
+
 s_values = [-2, -1, 1, 2]; %random
 
 det_values = zeros(size(s_values));
