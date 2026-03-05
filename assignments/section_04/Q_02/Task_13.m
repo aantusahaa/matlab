@@ -1,3 +1,5 @@
+clc; clear;
+
 A = randi(10, 4, 4); 
 
 I = eye(4); 
