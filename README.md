@@ -1,5 +1,5 @@
 🛠️ Repository Highlights
-The codebase addresses over 110 distinct mathematical challenges from the official course syllabus: 
+The codebase addresses over 130 distinct mathematical challenges from the official course syllabus: 
 
 Numerical Analysis: Full implementations of Bisection, Newton-Raphson, and Runge-Kutta (4th Order) methods for solving non-linear equations and ODEs. 
 
