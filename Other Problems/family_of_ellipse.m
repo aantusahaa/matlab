@@ -16,6 +16,7 @@ hold on
 xlabel('X-Axis'); ylabel('Y-Axis');
 title('Family of Ellipses');
 colors = lines(n);
+axis equal;
 
 for r = 1:n
     a = r;
